@@ -30,3 +30,16 @@ body{
 .facts-page{
     background-color: #e4baf7;
 }
+
+.gallery-content button{
+    border: 30%;
+    padding: 1%;
+    margin: 1%;
+    background-color: #e4baf7;
+    border-color: #e4baf7;
+    border: none;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+    height: 1%;
+}
