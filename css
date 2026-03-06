@@ -1,0 +1,12 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  /* Shorthand transition property: property duration timing-function delay */
+  transition: background-color 0.9s ease, width 3s ease-in-out; 
+}
+
+.box:hover {
+  background-color: red;
+  width: 200px;
+}
